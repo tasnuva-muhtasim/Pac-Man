@@ -1,5 +1,14 @@
 # OpenGL Game Environment
 
+
+## Screenshot
+The Maze
+![Game Environment Screenshot](Screenshot_1.png)
+The Ghosts
+![Game Environment Screenshot](Screenshot_2.png)
+The pac man
+![Game Environment Screenshot](Screenshot_3.png)
+
 ## Overview
 This project is a basic game environment developed using OpenGL and FreeGLUT. It serves as a foundation for building interactive graphics applications.
 
